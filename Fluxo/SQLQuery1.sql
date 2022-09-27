@@ -1,0 +1,1 @@
+select * from FF_VS_ListagemCadastroCliente
